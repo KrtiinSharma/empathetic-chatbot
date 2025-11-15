@@ -17,9 +17,6 @@ Fine tuning GPT2 on the empathetic dataset to create an open-domain conversatio
 Model training on publicly-available empathetic dialogue generation and EMPATHETICDIALOGUES from Allen School of Computer Science & Engineering, University of Washington and Facebook AI Research.
 Dataset is cleaned and convert into conversation data.
 
-### OUTPUT:
-![Sample Output](https://github.com/Allwinraj/Empathetic-ChatBot/blob/main/Output.png)
-
 ### REFERENCE:
 [1]. https://research.fb.com/publications/towards-empathetic-open-domain-conversation-models-a-new-benchmark-and-dataset/
 
